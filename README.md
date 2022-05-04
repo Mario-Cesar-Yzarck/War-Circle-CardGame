@@ -9,6 +9,7 @@ Ideia inicial:
 - A sequencia é sempre no sentido horário;
 - Os decks dos oponentes são sorteados após a escolha do jogador;
 - Apenas single player, inicialmente;
+
 Regras do jogo:
   - Decks com 9 cartas;
   - A cada turno um dos competidores joga uma carta, que vença a última carta jogada em pelo menos 1 parâmetro e não perca nos outros 2 parâmetros;
